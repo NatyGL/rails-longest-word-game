@@ -13,3 +13,10 @@
  *= require_tree .
  *= require_self
  */
+
+ #letter{
+  background-color: #3498dc;
+  font-family: "Merriweather";
+  font-size: x-large;
+  font-weight: bold;
+ }
